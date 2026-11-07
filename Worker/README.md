@@ -1,0 +1,1 @@
+Backend to be implemented separately: secure authentication/roles, signed R2 uploads, partner ownership checks, moderation, copyright reports and verified payment records. Never trust browser-supplied roles or IDs. Store secrets in Cloudflare secrets.\n
